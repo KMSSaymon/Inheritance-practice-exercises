@@ -1,28 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de32accf-2c99-49c1-8d6e-8e4980b9baff" name="Changes" comment="" />
+    <list default="true" id="de32accf-2c99-49c1-8d6e-8e4980b9baff" name="Changes" comment="Chapter 9 , Inheritance practice exercises">
+      <change afterPath="$PROJECT_DIR$/src/AnyCorrectChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnyCorrectChoiceQuestionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccount2Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankAccountRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicAccount2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckingAccountRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FillInQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FillInQuestionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManagerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiChoiceQuestionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumericQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumericQuestionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2pEog3HzkuOnROSiYVC9kTi9COy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnyCorrectChoiceQuestionRunner.executor": "Run",
+    "Application.BankAccount2Runner.executor": "Run",
+    "Application.BankAccountRunner.executor": "Run",
+    "Application.CheckingAccountRunner.executor": "Run",
+    "Application.FillInQuestionRunner.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ManagerRunner.executor": "Run",
+    "Application.NumericQuestionRunner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "E9-12",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TestPerson">
+    <configuration name="BankAccountRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankAccountRunner" />
+      <module name="Inheritance practice problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckingAccountRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckingAccountRunner" />
+      <module name="Inheritance practice problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Inheritance practice problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManagerRunner" />
+      <module name="Inheritance practice problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPerson" />
+      <module name="Inheritance practice problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPerson" />
+        <item itemvalue="Application.ManagerRunner" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CheckingAccountRunner" />
+        <item itemvalue="Application.BankAccountRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,6 +131,30 @@
       <option name="presentableId" value="Default" />
       <updated>1732340704202</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 9 , Inheritance practice exercises">
+      <option name="closed" value="true" />
+      <created>1732341320596</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732341320596</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 9 , Inheritance practice exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 9 , Inheritance practice exercises" />
   </component>
 </project>
